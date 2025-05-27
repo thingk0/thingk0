@@ -15,11 +15,13 @@ Developer dev = Developer.builder()
 
 </br>
 
+<!--
 <p align="center">
   <a href="https://until.blog/@thingk0">
     <img src="https://ryc04otowj.execute-api.ap-northeast-2.amazonaws.com/blog-posts-svg?username=thingk0" alt="Until 블로그 최신 글" />
   </a>
 </p>
+-->
 
 </br>
 
