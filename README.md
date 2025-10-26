@@ -1,4 +1,4 @@
-# 🤖 AI Agent Engineer | thingk0
+# AI Agent & BE Engineer | thingk0
 
 ![thingk0 header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=250&section=header&text=thingk0&fontSize=70&fontColor=0B1120&fontAlign=50&fontAlignY=38&desc=AI%20Agent%20Engineer%20%26%20Builder&descAlign=50&descAlignY=62&descSize=24)
 
