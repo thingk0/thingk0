@@ -70,12 +70,12 @@
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[CHIT](https://github.com/thingk0/CHIT-API)** | 치지직 스트리머용 실시간 시청자 참여 플랫폼 | `Spring` `SSE` `Virtual Thread` `EhCache` |
-| **[Smartoring](https://github.com/thingk0/Smart-oring)** 🏅 | 스마트 팩토리 물류 기기 통합 제어 시스템 | `Spring` `React` `Kafka` `Docker` |
-| **[IEUM-Pay](https://github.com/thingk0/IEUM-PAY)** 🥇 | 잔돈 자동 기부 핀테크 서비스 | `Spring` `React` `MySQL` `AWS` |
-| **[MyBrary](https://github.com/thingk0/Mybrary)** 🥇 | 다양한 콘텐츠 출판 SNS 플랫폼 | `Spring` `React` `Elasticsearch` |
+| Project | Description |
+|---------|-------------|
+| **[CHIT](https://github.com/thingk0/CHIT-API)** | 치지직 스트리머용 실시간 시청자 참여 플랫폼 |
+| **[Smartoring](https://github.com/thingk0/Smart-oring)** 🏅 | 스마트 팩토리 물류 기기 통합 제어 시스템 |
+| **[IEUM-Pay](https://github.com/thingk0/IEUM-PAY)** 🥇 | 잔돈 자동 기부 핀테크 서비스 |
+| **[MyBrary](https://github.com/thingk0/Mybrary)** 🥇 | 다양한 콘텐츠 출판 SNS 플랫폼 |
 
 ---
 
