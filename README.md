@@ -10,7 +10,7 @@
 
 </div>
 
----
+<br>
 
 ## 🙋‍♂️ About Me
 
@@ -21,7 +21,7 @@
 - 💡 백엔드 시스템 설계 역량을 기반으로 **AI 제품**을 만듭니다
 - 🎓 **SSAFY 10기** 수료 | **명지대학교** 정보통신공학 졸업
 
----
+<br>
 
 ## 🔗 Portfolio
 
@@ -33,7 +33,7 @@
 
 </div>
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -45,7 +45,7 @@
 | Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white) |
 | DevOps & Tools | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
----
+<br>
 
 ## 🏆 Featured Projects
 
@@ -56,7 +56,7 @@
 | **[IEUM-Pay](https://github.com/thingk0/IEUM-PAY)** 🥇 | 잔돈 자동 기부 핀테크 서비스 |
 | **[MyBrary](https://github.com/thingk0/Mybrary)** 🥇 | 다양한 콘텐츠 출판 SNS 플랫폼 |
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thingk0&layout=compact&theme=radical" height="150" />
 </div>
 
----
+<br>
 
 <div align="center">
 
