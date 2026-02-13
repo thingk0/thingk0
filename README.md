@@ -33,17 +33,6 @@
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thingk0&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thingk0&layout=compact&theme=radical" height="150" />
-</div>
-
-<br>
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=100&section=footer)
