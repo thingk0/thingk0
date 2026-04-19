@@ -2,36 +2,67 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=thingk0&fontSize=60&fontColor=0B1120&fontAlign=50&fontAlignY=40)
 
-### 안녕하세요 👋 저는 **고명성**입니다
+### 고명성 | thingk0
 
-**AI Agent Engineer & Backend Developer @ 빅스데이터**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0B1120&center=true&vCenter=true&width=720&lines=Backend+%26+AI+Agent+Engineer;Building+data+products+and+AI+agents;Documenting+Hybrid+RAG+experiments" />
 
-*"AI는 우리가 가진 모든 직업을 대체하지는 않을 것이다. 그러나 AI를 가진 사람들이 모든 직업을 대체할 것이다."* — 앤드류 응
+**[Portfolio](https://www.thingk0.website/about/)** | **[Blog](https://www.thingk0.website/blog/)**
 
 </div>
 
 <br>
 
-## 🙋‍♂️ About Me
+## About
 
-저는 **도전·노력·기회·성장**을 가치로 삼는 개발자입니다.
+I work across backend and AI, building systems that are meant to run in real products.
 
-- 🔭 현재 **빅스데이터**에서 **AI Agent 엔지니어**로 근무 중
-- 🌱 **Multi-Agent 오케스트레이션**과 **LLMOps**에 집중하고 있습니다
-- 💡 백엔드 시스템 설계 역량을 기반으로 **AI 제품**을 만듭니다
-- 🎓 **SSAFY 10기** 수료 | **명지대학교** 정보통신공학 졸업
+I have built Java/Spring API servers, and I am currently working on Python/FastAPI-based AI agents and data query systems.
+
+- Built core APIs for a Tableau extension product
+- Implemented ACL, license sync, and log analysis APIs
+- Developed a Text-to-VDS query agent and orchestration-based multi-agent workflows
+- Designed metadata management flows and a Neo4j-based Hybrid RAG pipeline
 
 <br>
 
-## 🔗 Portfolio
+## Skills
 
 <div align="center">
 
-### **[→ www.thingk0.website](https://www.thingk0.website)**
-
-자세한 프로젝트와 경력은 포트폴리오에서 확인하세요!
+<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,docker,aws,git,github,linux&theme=light" />
 
 </div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agent-E0F2FE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multi--Agent-DCFCE7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMOps-DBEAFE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend%20Architecture-E5E7EB?style=for-the-badge" />
+
+</div>
+
+<br>
+
+## Now
+
+- Building a query agent on top of Tableau VizQL Data Service
+- Designing semantic-layer and metadata management flows
+- Running a personal RAG playground and writing about it on the blog
+
+<br>
+
+## Background
+
+- **SSAFY 10th Cohort**
+- **Myongji University, Information and Communication Engineering**
+
+<br>
+
+## Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
