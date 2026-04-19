@@ -59,13 +59,6 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 
 <br>
 
-## Links
-
-- Portfolio: **[www.thingk0.website/about/](https://www.thingk0.website/about/)**
-- Blog: **[www.thingk0.website/blog/](https://www.thingk0.website/blog/)**
-
-<br>
-
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
