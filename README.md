@@ -10,7 +10,7 @@
 
 관심사: **Multi-Agent Orchestration**, **LLMOps**, **Backend Architecture**
 
-**[Portfolio](https://www.thingk0.website)**
+**[Portfolio](https://www.thingk0.website/about/)** | **[Blog](https://www.thingk0.website/blog/)**
 
 </div>
 
@@ -26,6 +26,25 @@ LLM을 단순한 데모로 끝내지 않고, 제품 안에서 안정적으로 �
 - Backend API, data flow, service architecture
 - AI feature prototyping and productionization
 - LLMOps를 고려한 운영 흐름 개선
+
+<br>
+
+## Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,docker,aws,git,github,linux" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agent-0B1120?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent-0F766E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMOps-1D4ED8?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Architecture-334155?style=for-the-badge&logoColor=white" />
+
+</div>
 
 <br>
 
@@ -46,7 +65,8 @@ LLM을 단순한 데모로 끝내지 않고, 제품 안에서 안정적으로 �
 
 ## Links
 
-- Portfolio: **[www.thingk0.website](https://www.thingk0.website)**
+- Portfolio: **[www.thingk0.website/about/](https://www.thingk0.website/about/)**
+- Blog: **[www.thingk0.website/blog/](https://www.thingk0.website/blog/)**
 
 <div align="center">
 
