@@ -2,36 +2,51 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=thingk0&fontSize=60&fontColor=0B1120&fontAlign=50&fontAlignY=40)
 
-### 안녕하세요 👋 저는 **고명성**입니다
+### 고명성 | thingk0
 
-**AI Agent Engineer & Backend Developer @ 빅스데이터**
+**AI Agent Engineer & Backend Developer**
 
-*"AI는 우리가 가진 모든 직업을 대체하지는 않을 것이다. 그러나 AI를 가진 사람들이 모든 직업을 대체할 것이다."* — 앤드류 응
+백엔드 시스템 위에서, 실제 서비스에 들어갈 수 있는 AI 제품을 설계하고 구현합니다.
+
+관심사: **Multi-Agent Orchestration**, **LLMOps**, **Backend Architecture**
+
+**[Portfolio](https://www.thingk0.website)**
 
 </div>
 
 <br>
 
-## 🙋‍♂️ About Me
+## About
 
-저는 **도전·노력·기회·성장**을 가치로 삼는 개발자입니다.
+실험적인 아이디어를 빠르게 검증하고, 운영 가능한 구조로 정리하는 일을 좋아합니다.
 
-- 🔭 현재 **빅스데이터**에서 **AI Agent 엔지니어**로 근무 중
-- 🌱 **Multi-Agent 오케스트레이션**과 **LLMOps**에 집중하고 있습니다
-- 💡 백엔드 시스템 설계 역량을 기반으로 **AI 제품**을 만듭니다
-- 🎓 **SSAFY 10기** 수료 | **명지대학교** 정보통신공학 졸업
+LLM을 단순한 데모로 끝내지 않고, 제품 안에서 안정적으로 동작하는 기능으로 만드는 데 집중합니다.
+
+- AI Agent workflow 설계 및 orchestration
+- Backend API, data flow, service architecture
+- AI feature prototyping and productionization
+- LLMOps를 고려한 운영 흐름 개선
 
 <br>
 
-## 🔗 Portfolio
+## Now
 
-<div align="center">
+- **Multi-Agent orchestration** 패턴을 정리하고 개선하고 있습니다
+- **LLMOps** 관점에서 평가와 운영 흐름을 다듬고 있습니다
+- 백엔드 시스템 설계 역량을 바탕으로 **AI 제품**을 만들고 있습니다
 
-### **[→ www.thingk0.website](https://www.thingk0.website)**
+<br>
 
-자세한 프로젝트와 경력은 포트폴리오에서 확인하세요!
+## Background
 
-</div>
+- **SSAFY 10기** 수료
+- **명지대학교 정보통신공학** 졸업
+
+<br>
+
+## Links
+
+- Portfolio: **[www.thingk0.website](https://www.thingk0.website)**
 
 <div align="center">
 
