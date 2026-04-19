@@ -4,11 +4,7 @@
 
 ### 고명성 | thingk0
 
-**AI Agent Engineer & Backend Developer**
-
-백엔드 시스템 위에서, 실제 서비스에 들어갈 수 있는 AI 제품을 설계하고 구현합니다.
-
-관심사: **Multi-Agent Orchestration**, **LLMOps**, **Backend Architecture**
+<img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&size=24&pause=1200&color=0B1120&center=true&vCenter=true&width=720&lines=AI+Agent+Engineer;백엔드+시스템+위에+AI+제품을+만듭니다;운영+가능한+구조를+고민합니다" />
 
 **[Portfolio](https://www.thingk0.website/about/)** | **[Blog](https://www.thingk0.website/blog/)**
 
