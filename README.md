@@ -62,9 +62,9 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [맥미니 SSD 인클로저 후기 — 하기비스 MC600 &lpar;개봉 편&rpar;](https://www.thingk0.website/blog/2026/04/20/hagibis-mc600-mac-mini-ssd-enclosure/)
 - [[NL-to-SQL] Quest 1: 환경 세팅 + DB + 시맨틱 레이어 + pgvector RAG](https://www.thingk0.website/blog/2026/04/18/nl-to-sql-quest-1/)
 - [RAGPlay — RAG 파이프라인을 손으로 만져볼 수 있는 인터랙티브 도구](https://www.thingk0.website/blog/2026/04/16/ragplay-interactive-review/)
-- [CodeBuild + ECR + EC2로 가벼운 CI/CD 파이프라인 설계하기](https://www.thingk0.website/blog/2026/04/15/cicd-pipeline-with-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
