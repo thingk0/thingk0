@@ -62,9 +62,9 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[뒷북 후기] iPhone에서 Gemma 4 돌려보기 — 로컬LLM 시대?](https://www.thingk0.website/blog/2026/04/28/gemma4-iphone-belated-review/)
 - [[NL-to-SQL] Quest 2: Zero-Shot Baseline — 전체 스키마 때려박기](https://www.thingk0.website/blog/2026/04/25/nl-to-sql-quest-2/)
 - [블로그에 AI 챗봇 붙이기 — 이틀치 회고](https://www.thingk0.website/blog/2026/04/23/blog-ai-chatbot-retro/)
-- [맥미니 SSD 인클로저 후기 — 하기비스 MC600 &lpar;개봉 편&rpar;](https://www.thingk0.website/blog/2026/04/20/hagibis-mc600-mac-mini-ssd-enclosure/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
