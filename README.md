@@ -62,9 +62,9 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[뒷북 후기] iPhone에서 Gemma 4 돌려보기 — 로컬LLM 시대?](https://www.thingk0.website/blog/2026/04/28/gemma4-iphone-belated-review/)
-- [[NL-to-SQL] Quest 2: Zero-Shot Baseline — 전체 스키마 때려박기](https://www.thingk0.website/blog/2026/04/25/nl-to-sql-quest-2/)
-- [블로그에 AI 챗봇 붙이기 — 이틀치 회고](https://www.thingk0.website/blog/2026/04/23/blog-ai-chatbot-retro/)
+- [[NL-to-SQL] Side Quest: Textual TUI에서 Jupyter Notebook으로 갈아타기](https://www.thingk0.website/blog/2026/05/02/nl-to-sql-tui-to-jupyter/)
+- [[뒷북 후기] iPhone에서 Gemma 4 돌려보기 — 로컬LLM 시대?](https://www.thingk0.website/blog/2026/04/30/gemma4-iphone-belated-review/)
+- [[NL-to-SQL] Quest 2: Zero-Shot Baseline — 전체 스키마 때려박기](https://www.thingk0.website/blog/2026/04/26/nl-to-sql-quest-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
