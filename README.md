@@ -4,8 +4,7 @@
 
 ### 고명성 | thingk0
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0B1120&center=true&vCenter=true&width=720&lines=Backend+%26+AI+Agent+Engineer;Building+data+products+and+AI+agents;Documenting+Hybrid+RAG+experiments" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0B1120&center=true&vCenter=true&width=720&lines=Backend+%26+AI+Agent+Engineer;Building+practical+tools+with+AI;Documenting+Hybrid+RAG+experiments" />
 **[Portfolio](https://www.thingk0.website/about/)** | **[Blog](https://www.thingk0.website/blog/)**
 
 </div>
