@@ -29,8 +29,7 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,docker,aws,git,github,linux&theme=light" />
-
+<img src="https://skillicons.dev/icons?i=swift,typescript,python,fastapi,java,spring,postgres,neo4j,docker,aws,cloudflare,git&theme=light" />
 </div>
 
 <div align="center">
@@ -38,8 +37,7 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 <img src="https://img.shields.io/badge/AI%20Agent-E0F2FE?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Multi--Agent-DCFCE7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLMOps-DBEAFE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend%20Architecture-E5E7EB?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Practical%20AI%20Tools-DCFCE7?style=for-the-badge" />
 </div>
 
 <br>
