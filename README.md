@@ -59,9 +59,9 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qdrant를 걷어내고 Cloudflare AI Search로: 블로그 RAG 운영 단순화 마이그레이션](https://www.thingk0.website/blog/2026/09/01/qdrant-to-cloudflare-ai-search/)
+- [SubQ — 12M 토큰을 한 호흡에? 일단 얼리액세스부터 신청해봤습니다](https://www.thingk0.website/blog/2026/06/02/subq-ai-intro/)
 - [Command Code, $1짜리 AI 코딩 툴 한번 써봅니다](https://www.thingk0.website/blog/2026/05/30/commandcode-ai-prologue/)
-- [Text-to-SQL은 시작일 뿐 — 워크플로우형 데이터 분석 에이전트를 만들어본 회고](https://www.thingk0.website/blog/2026/05/11/workflow-data-analysis-agent/)
-- [[NL-to-SQL] Side Quest: Textual TUI에서 Jupyter Notebook으로 갈아타기](https://www.thingk0.website/blog/2026/05/02/nl-to-sql-tui-to-jupyter/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
