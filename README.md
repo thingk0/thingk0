@@ -1,11 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=thingk0&fontSize=60&fontColor=0B1120&fontAlign=50&fontAlignY=40)
+<img src="./assets/header.png" width="100%" alt="thingk0 - Backend & AI Agent Engineer" />
 
-### 고명성 | thingk0
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=0B1120&center=true&vCenter=true&width=720&lines=Backend+%26+AI+Agent+Engineer;Building+practical+tools+with+AI;Documenting+Hybrid+RAG+experiments" />
-<p><strong><a href="https://www.thingk0.website/portfolio/">Portfolio</a></strong> | <strong><a href="https://www.thingk0.website/blog/">Blog</a></strong></p>
+<p>고명성 · <strong><a href="https://www.thingk0.website/portfolio/">Portfolio</a></strong> | <strong><a href="https://www.thingk0.website/blog/">Blog</a></strong></p>
 
 </div>
 
@@ -64,8 +61,3 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 - [Command Code, $1짜리 AI 코딩 툴 한번 써봅니다](https://www.thingk0.website/blog/2026/05/30/commandcode-ai-prologue/)
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=100&section=footer)
-
-</div>
