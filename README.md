@@ -39,11 +39,9 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres&theme=light" alt="Python, FastAPI, Java, Spring, PostgreSQL" />
 
 <p><strong>Cloud &amp; DevOps</strong></p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,git&theme=light" alt="AWS, Docker, Cloudflare, Git" />
+<br>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge" alt="Databricks" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git" />
 
 <p><strong>Other Languages</strong></p>
 <img src="https://skillicons.dev/icons?i=swift,typescript&theme=light" alt="Swift, TypeScript" />
