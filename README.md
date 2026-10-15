@@ -25,18 +25,27 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,typescript,python,fastapi,java,spring,postgres,neo4j,docker,aws,cloudflare,git&theme=light" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres,docker,aws,git,swift,typescript,cloudflare&theme=light" alt="Python, FastAPI, Java, Spring, PostgreSQL, Docker, AWS, Git, Swift, TypeScript, Cloudflare" />
 
-<div align="center">
+<br><br>
 
-<img src="https://img.shields.io/badge/AI%20Agent-E0F2FE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multi--Agent-DCFCE7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMOps-DBEAFE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Practical%20AI%20Tools-DCFCE7?style=for-the-badge" />
-</div>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge" alt="Databricks" />
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge" alt="OpenSearch" />
 
 <br>
+
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge" alt="Neo4j" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
+<img src="https://img.shields.io/badge/Hybrid%20RAG-E0F2FE?style=for-the-badge" alt="Hybrid RAG" />
+<img src="https://img.shields.io/badge/Multi--Agent-DCFCE7?style=for-the-badge" alt="Multi-Agent" />
+
+</div>
+
+
+<br>
+
 
 ## Now
 
