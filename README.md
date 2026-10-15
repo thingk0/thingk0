@@ -25,27 +25,32 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres,docker,aws,git,swift,typescript,cloudflare&theme=light" alt="Python, FastAPI, Java, Spring, PostgreSQL, Docker, AWS, Git, Swift, TypeScript, Cloudflare" />
-
-<br><br>
-
+<p><strong>AI &amp; Search</strong></p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge" alt="Databricks" />
 <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge" alt="OpenSearch" />
-
-<br>
-
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge" alt="Neo4j" />
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
+<br>
 <img src="https://img.shields.io/badge/Hybrid%20RAG-E0F2FE?style=for-the-badge" alt="Hybrid RAG" />
 <img src="https://img.shields.io/badge/Multi--Agent-DCFCE7?style=for-the-badge" alt="Multi-Agent" />
 
+<p><strong>Backend</strong></p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres&theme=light" alt="Python, FastAPI, Java, Spring, PostgreSQL" />
+
+<p><strong>Cloud &amp; DevOps</strong></p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge" alt="Databricks" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" alt="Git" />
+
+<p><strong>Other Languages</strong></p>
+<img src="https://skillicons.dev/icons?i=swift,typescript&theme=light" alt="Swift, TypeScript" />
+
 </div>
 
-
 <br>
-
 
 ## Now
 
