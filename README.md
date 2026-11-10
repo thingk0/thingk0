@@ -68,8 +68,8 @@ I have built Java/Spring API servers, and I am currently working on Python/FastA
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI 코딩 에이전트 지침서 최적화 — AGENTS.md 단일화와 온디맨드 스킬 시스템 구축기](https://www.thingk0.website/blog/2026/10/01/ai-agent-modular-rules-context-optimization/)
-- [일정 AI의 카테고리만 Jev에게 &lpar;1&rpar;: 생성형 LLM 대신 판별 모델 도입하기](https://www.thingk0.website/blog/2026/09/30/solar-to-jev-category-migration/)
-- [블로그 빌드 속도 25% 단축기 — Mermaid 지연 로딩과 Astro 동시성](https://www.thingk0.website/blog/2026/09/25/astro-blog-build-optimization/)
+- [AI 코딩 에이전트 지침서 최적화 — AGENTS.md 단일화와 온디맨드 스킬 시스템 구축기](https://thingk0.dev/blog/2026/10/01/ai-agent-modular-rules-context-optimization/)
+- [일정 AI의 카테고리만 Jev에게 &lpar;1&rpar;: 생성형 LLM 대신 판별 모델 도입하기](https://thingk0.dev/blog/2026/09/30/solar-to-jev-category-migration/)
+- [블로그 빌드 속도 25% 단축기 — Mermaid 지연 로딩과 Astro 동시성](https://thingk0.dev/blog/2026/09/25/astro-blog-build-optimization/)
 <!-- BLOG-POST-LIST:END -->
 
